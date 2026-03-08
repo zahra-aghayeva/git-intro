@@ -1,4 +1,2 @@
 Message from main branch
-
 Message from feature branch
- feature-greeting
